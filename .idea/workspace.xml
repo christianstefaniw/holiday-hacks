@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4289622-73e4-498b-93f1-8f2cdb3b70b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lfxcvPTA3PuNe7KCCdhGmfnMQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../holiday-hacks" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cpste\Desktop\Projects\holiday-hacks\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4289622-73e4-498b-93f1-8f2cdb3b70b4" name="Default Changelist" comment="" />
+      <created>1608002030326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608002030326</updated>
+      <workItem from="1608002040805" duration="634000" />
+      <workItem from="1608053036833" duration="29000" />
+      <workItem from="1608056760482" duration="5887000" />
+      <workItem from="1608063059909" duration="4637000" />
+      <workItem from="1608177494964" duration="2324000" />
+      <workItem from="1608228253001" duration="281000" />
+      <workItem from="1608237756485" duration="18000" />
+      <workItem from="1608307179676" duration="8669000" />
+      <workItem from="1608316247887" duration="1122000" />
+      <workItem from="1608323435074" duration="21000" />
+      <workItem from="1608351792836" duration="5573000" />
+      <workItem from="1608398052890" duration="688000" />
+      <workItem from="1608398829213" duration="427000" />
+      <workItem from="1608409146504" duration="9400000" />
+      <workItem from="1608420410287" duration="104000" />
+      <workItem from="1608429610760" duration="1891000" />
+      <workItem from="1609001459685" duration="1980000" />
+      <workItem from="1609003960790" duration="4905000" />
+      <workItem from="1609009596679" duration="514000" />
+      <workItem from="1609013271290" duration="1466000" />
+      <workItem from="1609018348395" duration="440000" />
+      <workItem from="1609026421784" duration="9788000" />
+      <workItem from="1609050383273" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

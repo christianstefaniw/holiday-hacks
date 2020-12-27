@@ -1,0 +1,112 @@
+.recipe {
+  margin: 30px auto;
+}
+.col-sm-3 {
+  max-width: 600px;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.recipe-title:hover {
+  color: #59B49B;
+}
+
+.title {
+  font-family: 'Oswald';
+  color: #285B52;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.jumbotron {
+  padding: 1rem 2rem;
+}
+
+.recipe-title {
+  z-index: 999;
+  color: #285B52;
+  font-size: 22px;
+  white-space: nowrap;
+  max-width: 328px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  margin-top: 1rem;
+}
+
+.jumbotron {
+  background-color: transparent;
+}
+
+.gradient {
+  position:relative;
+  display:inline-block;
+}
+
+.gradient::after {
+  content:'';
+  position:absolute;
+  left:0; top:0;
+  width:100%; height:100%;
+  display:inline-block;
+  background: linear-gradient(to top, #285B52, rgb(40 91 82 / 10%), transparent, transparent);
+}
+
+.gradient:hover:after{
+  background-color:rgb(40 91 82 / 35%);
+  transition: .3s;
+}
+
+.recipe-img {
+
+  border: 8px solid #285B52;
+  z-index: -999;
+}
+
+.recipe-instructions:hover {
+  transition: all 0.3s ease-out;
+  font-size: 50px;
+  color: #217947;
+  transition: 250ms;
+}
+
+.search-bar {
+  border-radius: 5px;
+  width: 55%;
+  height: 50px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #59B49B;
+  border: 2px solid #285B52;
+}
+
+.lds-dual-ring {
+  box-sizing: border-box;
+  width: 64px;
+  height: 64px;
+  border: 8px solid black;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: black transparent transparent transparent;
+}
+
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
